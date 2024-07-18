@@ -1,5 +1,5 @@
 baseURL = 'https://www.jamali.or.id/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Jala Marwita Lestari'
 theme = 'ananke'
 publishDir = 'docs'
