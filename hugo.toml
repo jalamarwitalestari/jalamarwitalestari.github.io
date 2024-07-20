@@ -1,5 +1,0 @@
-baseURL = 'https://www.jamali.or.id/'
-languageCode = 'en-us'
-title = 'Jala Marwita Lestari'
-theme = 'arcana'
-publishDir = 'docs'
