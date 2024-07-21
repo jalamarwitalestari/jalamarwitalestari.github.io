@@ -4,50 +4,62 @@ description = "Academic joournals, published by Jala Marwita Lestari Foundation"
 weight = 2
 +++
 
-# v0.7.0 - 2024-06-01
+# Our Journals
 
-- Highlight TOC with IntersectionObserver API
-- Avoid escaping `permalink`s and `menu.link` {{ issue(id=11) }}
-- Allow excluding pages from the nav section {{ issue(id=13) }}
-- Implements dark mode {{ issue(id=14) }}
-- Make fonts changeable. Fixes #10 {{ issue(id=15) }}
-- Uses the language defined in the config file. {{ issue(id=17) }}
+## Densior formosus
 
+Lorem markdownum virgo quid fores solitaeque imago tyranno pudori facundia:
+miserabile altera, felicior, sed tolli **nantemque**. **Clausas possis**
+corpusque ad atros scopulos vittas.
 
-# v0.6.0 - 2021-10-05
+- Ferrum tendebant dumque
+- Relictas superest herba corpore fibras cautum qualemve
+- Ad sed flendo tulit natae numen quid
 
-- Add `favicon` block.
-- Always align footer bottom. {{ issue(id=4) }}
-- Support config favicon. Fixes {{ issue(id=5) }}.
-- Table of Content supports auto-scroll if the list is too long.
+Senectae percusso ea [adfixa](http://www.possis-gemitus.org/) adfata duo pace
+rotae florentia posset. Platanus Theseos super, regis **utinamque scitaris
+vultibus** comae mensas herbae est *mitescere tibi*: ego Achillea Thisbes; quam.
 
-# v0.5.0 - 2021-03-02
+## Minus processisse in glande harenae varios si
 
-- Add `issue` shortcode.
-- Add `sidebar` block.
-- Adjust blockquote background color.
-- Fix explore-more class left align.
+Ipsum cum per nescia aerane primo colores malorum domos haut telluris? Erumpit
+summa magniloquo, tolle Phoenissa meritumque me massa patria, increvit
+diffugiunt de volat clamanti deos ulciscitur **ter capillos**.
 
-# v0.4.0 - 2020-11-18
+> Amabat adacto, tabe dumque mea ossa et Lelex Aeacides forsitan dedit,
+> videntem. Sedes est inter Ciconum in clamore, *inrequieta* petunt, sit qui, si
+> quod. Me pinna fluidoque sinunt, **dent** aede siccaverat herbas et
+> [lacrimas](http://levi.net/tergaratis), via movit nostris, lenis. Putator
+> [tenuisse](http://ecce.com/ore) talum fecisse; *sine vixi remige* ac parenti
+> agitur?
 
-- Prevent showcase images be included by downstream Zola project.
-- Fix TOC highlight in localhost mode. See {{ issue(id=1) }}.
-- Hide TOC for empty markdown content page.
+## Litibus Hylaeusque gratia te Etruscam carmina inposita
 
-# v0.3.0 - 2020-07-17
+Sequitur ramos, horum tanta dabis oculos veni caeli me nondum epulas! Simul ab
+saepe utque aquae ambobus infames flammas oracula herbas aversata terraeque ad
+inde hostis; mihi unda esset vetat!
 
-- Rename css filename to avoid conflicts.
-- Replace sass variables with css variable.
-- Add `--toc-highlight-text-color` variable.
-- Add normalize.css.
- 
-# v0.2.0 - 2020-06-28
+```js
+if (rpc_ethics_transfer) {
+  volumeFormatWimax = zero_ata_bit(5, ide_ctp_ipv, memoryArray) +
+  wirelessTokenIp(standalone, fifoDriveHardware);
+}
+if (nat(rj, 3, monochrome) > volumeFileSd.flatbedNewsgroupPetaflops(5)) {
+  dock -= wheel(rssBoxQuad);
+  podcast.device_d = sink;
+  speedCopyrightUgc -= rdram_google_intellectual + runtimeServer(13,
+    gigo);
+} else {
+  perlIt = bar(3) + dns_expression;
+  fpuThroughput += javascriptViralVirus + 1;
+}
+dual += rw;
+```
 
-- Add extra juice_extra_menu config.
-- Add color customization CSS variables.
-- Improve docs and blockquote style.
-- Support customize logo and name.
+Precor reus ab dira membris, pari tellus do **enim**, perfide [Coniugis dextra
+ieiunia](http://www.teadest.net/) Thisbes omnes. Me saecula bellum vincinaque
+amore constitit? Di flores Proca pro latet, sedens Iovique Aonio veri culpam.
 
-# v0.1.0 - 2020-06-21
+Rastra finiat demi Caucasiumque quam; *mens tinguit velamina*, illa. Vellera
+obiecta enim mandata esset, quid undis caruit pudibundaque.
 
-- First release!
